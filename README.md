@@ -1,5 +1,5 @@
-![28 04 2025_23 49 46_REC](https://github.com/user-attachments/assets/ef000ba5-b624-4fb3-8737-6f3ff118dfac)
 ![28 04 2025_23 49 08_REC](https://github.com/user-attachments/assets/283eafde-7725-4659-8e20-312b27042b91)
+![28 04 2025_23 49 46_REC](https://github.com/user-attachments/assets/ef000ba5-b624-4fb3-8737-6f3ff118dfac)
 Overview:
 Built an interactive IPL Analytics Dashboard using Microsoft Power BI to transform raw cricket data into meaningful insights for fans, analysts, and decision-makers. The dashboard offers a dynamic and engaging way to explore player performances, match statistics, team comparisons, and season trends — all in a visually appealing format.
 
